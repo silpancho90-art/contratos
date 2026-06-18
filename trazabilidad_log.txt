@@ -1,0 +1,1474 @@
+==========================================================================================
+PERSONA: Beni  | Carnet Control: 0  | Codigos: BN6
+Registros encontrados en Estructura: 0
+  >> CONCLUSION: NO ENCONTRADO EN ESTRUCTURA
+==========================================================================================
+PERSONA: David Gonzales Salazar  | Carnet Control: 10786205  | Codigos: BN1
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=BENI | Sup=BENI   | Carnet=10786205 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 10/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Luis Fernando Rojas Salvatierra  | Carnet Control: 4190087  | Codigos: BN3
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=11/12/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=BENI | Sup=BENI | Carnet=4190087 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 11/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Miguel Alfonzo Orellana Teran  | Carnet Control: 4452404  | Codigos: CB3
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=20/11/2024 | Cargo=SUPERVISOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MIGUEL ALFONZO ORELLANA TERAN | Carnet=4452404 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: SUPERVISOR | Fecha vigente: 20/11/2024
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Halison Geraldine Vidaurre Aguila  | Carnet Control: 7914952  | Codigos: CB8
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/04/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=7914952 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 10/04/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Misael Federico Colque Llanque  | Carnet Control: 8846850  | Codigos: CB10
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/06/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MIGUEL ALFONZO ORELLANA TERAN | Carnet=8846850 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 16/06/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Pamela Fanny Calani Laura  | Carnet Control: 7930734  | Codigos: CB 31, CB31
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=08/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=PAMELA FANNY CALANI LAURA | Carnet=7930734 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=08/01/2026 | Cargo=SUPERVISOR | Estado=ACTIVO | Ciudad=COCHABAMBA | Sup=PAMELA FANNY CALANI LAURA | Carnet=7930734 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: SUPERVISOR | Fecha vigente: 08/01/2026
+  >> Conflicto en fecha mas reciente (08/01/2026): estados ACTIVO, INACTIVO
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Julio Cesar Cuba Ferrufino  | Carnet Control: 6550561  | Codigos: CB13
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MIGUEL ALFONZO ORELLANA TERAN | Carnet=6550561 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 10/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Fernando Santiago Clavel Choque  | Carnet Control: 6727967  | Codigos: CB14
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=15/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=6727967 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 15/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Muriel Evelyn Mercado Cabrera  | Carnet Control: 6772307  | Codigos: CB15
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/08/2025 | Cargo=SUPERVISOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=6772307 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: SUPERVISOR | Fecha vigente: 01/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Liz Susana Rodríguez Guzman  | Carnet Control: 5066748  | Codigos: CB16
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=5066748 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Elmer Jonatan Quispe Zambrana  | Carnet Control: 7959164  | Codigos: CB17
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=12/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=7959164 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 12/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Richard Imura Yuchina  | Carnet Control: 13471822  | Codigos: CB20
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=04/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=13471822 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Stefany Rojas Castillon  | Carnet Control: 11609536  | Codigos: CB21
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=11609536 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Brandon Salinas  Morales  | Carnet Control: 13420975  | Codigos: CB22
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=18/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=13420975 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 18/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Cobija  | Carnet Control: 0  | Codigos: PD10
+Registros encontrados en Estructura: 0
+  >> CONCLUSION: NO ENCONTRADO EN ESTRUCTURA
+==========================================================================================
+PERSONA: Marco Antonio Escobar Alvarez  | Carnet Control: 13547420  | Codigos: SC60
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=06/01/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=13547420 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 06/01/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: María Emilia Buitrago Arandia  | Carnet Control: 10395521  | Codigos: CB 28
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=25/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=10395521 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 25/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Elvis Leonel Baltazar Rios  | Carnet Control: 13224387  | Codigos: CB 30
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=06/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=13224387 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 06/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Luisa Jhancarla Aguila Quispe  | Carnet Control: 8048614  | Codigos: CB 32
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=07/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=8048614 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=08/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=8048614 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 08/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: David Ortuño  | Carnet Control: 9717928  | Codigos: BCB3
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=9717928 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 13/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Gadiel Alejandro Huanca Chavez  | Carnet Control: 11083115  | Codigos: CB 29
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=06/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=11083115 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 06/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Angeles Netz Céspedes  | Carnet Control: 11338566  | Codigos: SC68
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=30/01/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=11338566 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 30/01/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Deiby Taseo Guasase  | Carnet Control: 14810176  | Codigos: SC71
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=14810176 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 02/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jimena Rivero Loayza  | Carnet Control: 12725237  | Codigos: BSC5, SC66, SC75
+Registros encontrados en Estructura: 3
+  Reg 1: Fecha=30/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=12725237 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=03/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=12725237 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=17/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=12725237 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 17/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Serafin Layme Medina  | Carnet Control: 13163856  | Codigos: BSC14
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=08/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=13163856 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 08/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Brenda Ximena Barba Vaca  | Carnet Control: 6373781  | Codigos: SC53, SC73
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=17/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=6373781 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=03/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=6373781 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 03/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ruddy Meneses Flores Meneses Flores  | Carnet Control: 7937164  | Codigos: CB36
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=PAMELA FANNY CALANI LAURA | Carnet=7937164 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Adrián Enrique Lopez Merubia  | Carnet Control: 13697488  | Codigos: BSC15
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=08/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=13697488 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 08/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Luis Fernando Araguira Chamo  | Carnet Control: 15124366  | Codigos: SC62, SC76
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=09/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=15124366 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=20/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=15124366 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 20/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Sofía Jhannet Capriles Aruquipa  | Carnet Control: 6543737  | Codigos: BCB10
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=6543737 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Eduardo Jose Felipez Camacho  | Carnet Control: 13066165  | Codigos: BCB13
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=13066165 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Alionka Alejandra Díaz Teran  | Carnet Control: 6553392  | Codigos: BCB1
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=30/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=NATALIA VILLARROEL | Carnet=6553392 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 30/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Rodrigo Rodolfo Aramayo Rodriguez  | Carnet Control: 5296704  | Codigos: BCB5
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=23/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=NATALIA VILLARROEL | Carnet=5296704 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 23/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Oliver Paricollo Rojas  | Carnet Control: 8448057  | Codigos: BCB4
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=04/03/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=MURIEL EVELYN MERCADO CABRERA | Carnet=8448057 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=16/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=NATALIA VILLARROEL | Carnet=8448057 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhoselyn Daniela Manzaneda Chino  | Carnet Control: 12765089  | Codigos: PA31
+Registros encontrados en Estructura: 3
+  Reg 1: Fecha=15/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=12765089 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=18/01/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=12765089 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=01/02/2026 | Cargo=PASANTE | Estado=ACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=12765089 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: PASANTE | Fecha vigente: 01/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Amely Belinda Thaily Andia Burnes  | Carnet Control: 12970085  | Codigos: BCB14
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=12970085 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ruth Daniela Mamani  Roldan  | Carnet Control: 12992898  | Codigos: LP40
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=12992898 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Noelia Claudia Tellez Alarcon  | Carnet Control: 9865707  | Codigos: LP57, PA10
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=10/02/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=9865707 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=28/10/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=9865707 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 28/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Vladimir Alejandro Suarez Alba  | Carnet Control: 6774315  | Codigos: PA8
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=29/09/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=6774315 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 29/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Freddy  Medrano Arosqueta  | Carnet Control: 6905471  | Codigos: LP28
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=6905471 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Marisol  Ramos Balboa  | Carnet Control: 9118323  | Codigos: LP15
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=06/02/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=9118323 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 06/02/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Noelia Zaida Nina Beltran  | Carnet Control: 6132736  | Codigos: PA24
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=6132736 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 02/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Luis Alonzo Ergueta Blanco  | Carnet Control: 7079818  | Codigos: LP53
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=12/10/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=7079818 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 12/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Angela Lucia Gonzáles Mogro  | Carnet Control: 6876855  | Codigos: LP29
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=01/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6876855 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  Reg 2: Fecha=01/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=LIONEL CHABUR | Carnet=6876855 | Cruce=CARNET | NombreOK=SI
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Noemi Raquel Bautista Callisaya  | Carnet Control: 10084139  | Codigos: LP36
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=19/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=10084139 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 19/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Fernando Choque Flores  | Carnet Control: 6101589  | Codigos: LP73
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=19/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=6101589 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=11/12/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6101589 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 11/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Giovana Tola Casaca  | Carnet Control: 13626362  | Codigos: LP86, PA34
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=05/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=13626362 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=05/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=13626362 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 05/02/2026
+  >> Conflicto en fecha mas reciente (05/02/2026): estados ACTIVO, INACTIVO
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhuliza Alejandra Yucra Chambi  | Carnet Control: 8346930  | Codigos: LP43
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=03/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=8346930 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 03/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Alexia Micaela Ergueta Aliaga  | Carnet Control: 9868827  | Codigos: LP84
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=9868827 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 02/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Paola Esther Ortuño Alarcón  | Carnet Control: 3393406  | Codigos: LP94
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=3393406 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Joel David Huanca Huanca  | Carnet Control: 9904730  | Codigos: LP34
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=13/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=9904730 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=13/08/2025 | Cargo=SUPERVISOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=JOEL DAVID HUANCA HUANCA | Carnet=9904730 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: SUPERVISOR | Fecha vigente: 13/08/2025
+  >> Conflicto en fecha mas reciente (13/08/2025): estados ACTIVO, INACTIVO
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Livia Violeta Quispe Condori  | Carnet Control: 11096880  | Codigos: PA46
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=11096880 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ericka Serezo Choquehuanca  | Carnet Control: 14556596  | Codigos: PA28
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=11/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=14556596 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 11/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Adrian Anastacio Lecoña Colque  | Carnet Control: 10062979  | Codigos: PA13
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/07/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=10062979 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 10/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jordan Fernando Patzi Colque  | Carnet Control: 12453532  | Codigos: LP30
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=31/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=12453532 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 31/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Benjamin Chuquimia Cordero  | Carnet Control: 14560655  | Codigos: PA37
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=12/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=14560655 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 12/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Daniel Condori Condori  | Carnet Control: 9060033  | Codigos: PA22
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=9060033 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 02/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Noelia Evelyn Fernández Condori  | Carnet Control: 9911986  | Codigos: PA9
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=29/09/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=9911986 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 29/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ana Gabriela Condori Herrera  | Carnet Control: 13692226  | Codigos: PA43
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=13692226 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Gercy Ever Ergueta Kippes  | Carnet Control: 3465851  | Codigos: LP85
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/02/2026 | Cargo=SUPERVISOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=3465851 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: SUPERVISOR | Fecha vigente: 01/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Katterin Vanesa Medrano Espejo  | Carnet Control: 6835182  | Codigos: LP110, LP81, PA20
+Registros encontrados en Estructura: 3
+  Reg 1: Fecha=02/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6835182 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=26/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6835182 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=27/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6835182 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 27/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ronald Jhonatan Cusicanqui Laura  | Carnet Control: 10068723  | Codigos: PA44
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=10068723 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Daring Acarapi Mamani  | Carnet Control: 10098460  | Codigos: LP101
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=10098460 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Rodrigo Alejandro Antequera González  | Carnet Control: 6946466  | Codigos: LP39
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/01/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6946466 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/01/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Laura Vanessa Quispe Mamani  | Carnet Control: 6072812  | Codigos: LP88, PA33
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=05/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=6072812 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=05/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=6072812 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 05/02/2026
+  >> Conflicto en fecha mas reciente (05/02/2026): estados ACTIVO, INACTIVO
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Elba Maria Arevalo Herbas  | Carnet Control: 8412005  | Codigos: LP70
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=27/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=8412005 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 27/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jenny Magaly Huanca Laura  | Carnet Control: 8334929  | Codigos: PA12
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=10/07/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=8334929 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=23/10/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=8334929 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 23/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Maria De Los Angeles Lanza Huanca  | Carnet Control: 9903974  | Codigos: PA4
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/09/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=9903974 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 10/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Massiel Anai Rojas Irigoyen  | Carnet Control: 6086220  | Codigos: LP47
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=6086220 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 16/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Alvaro Cimar Mamani Prado  | Carnet Control: 10913612  | Codigos: PA47
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=10913612 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Rafaela Rubi Medina Soria  | Carnet Control: 5992672  | Codigos: PA51
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=17/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=5992672 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 17/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Abigail Huanaco Ticona  | Carnet Control: 9934488  | Codigos: LP87, PA35
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=05/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=9934488 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=05/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=9934488 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 05/02/2026
+  >> Conflicto en fecha mas reciente (05/02/2026): estados ACTIVO, INACTIVO
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Susana Ticona Machaca  | Carnet Control: 9109279  | Codigos: PA25, PA26
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=03/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=9109279 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=10/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=9109279 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 10/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Patricia Angelica Huayllas Paye  | Carnet Control: 4330467  | Codigos: LP104
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=4330467 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 16/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Guadalupe Susan Guerrero Maldobado  | Carnet Control: 9086504  | Codigos: LP68
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=20/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=9086504 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 20/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Harry Jhonny Cruz Mallqui  | Carnet Control: 6167128  | Codigos: LP107
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=19/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=6167128 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 19/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Marcelo Rivas Marin  | Carnet Control: 8373798  | Codigos: BCB2
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=05/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=8373798 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 05/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Laura Andrea Tribeño Gutiérrez  | Carnet Control: 10369734  | Codigos: BCB6
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=28/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=10369734 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 28/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Yessenia Andrea Vargas Ticlla  | Carnet Control: 9442119  | Codigos: BCB7
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=9442119 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Johanna Cassandra Chavez Valeriano  | Carnet Control: 9413704  | Codigos: BCB11
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=08/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=9413704 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 08/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Viviana Mamani Mamani  | Carnet Control: 12515456  | Codigos: LP62, LP74
+Registros encontrados en Estructura: 3
+  Reg 1: Fecha=25/02/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=12515456 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=11/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=12515456 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=11/12/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=12515456 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 11/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Pedro Gonzalo Andrade Mancilla  | Carnet Control: 8470865  | Codigos: LP16
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=06/11/2024 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=8470865 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 06/11/2024
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: G Gina San Martin  | Carnet Control: 2477124  | Codigos: LP26
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=2477124 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Orlando  Limachi Maydana  | Carnet Control: 6097645  | Codigos: LP24
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6097645 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jacqueline Quenallata Mendo  | Carnet Control: 8371753  | Codigos: LP67
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=20/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8371753 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 20/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Alejandra Quispe Mollo  | Carnet Control: 12468256  | Codigos: LP44
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=03/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=12468256 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 03/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Evelyn Carmela Espinoza Castro  | Carnet Control: 8823186  | Codigos: BCB15
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=07/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=8823186 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 07/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Claudia Shaskia Calle Nina  | Carnet Control: 8332985  | Codigos: LP79
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=14/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=8332985 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=14/01/2026 | Cargo=SUPERVISOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=CLAUDIA SHASKIA CALLE NINA | Carnet=8332985 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: SUPERVISOR | Fecha vigente: 14/01/2026
+  >> Conflicto en fecha mas reciente (14/01/2026): estados ACTIVO, INACTIVO
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Leydi Mariana Enriquez Siles  | Carnet Control: 6190921  | Codigos: LP72
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=30/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=6190921 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=09/12/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=6190921 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Carla Elena Torrez Condori  | Carnet Control: 9904616  | Codigos: PA36
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=9904616 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Bruno Rocha Pereira  | Carnet Control: 7914154  | Codigos: BCB8
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=7914154 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 02/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhosselin Lizeth Paucara Oro  | Carnet Control: 14156913  | Codigos: PA23
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=14156913 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 02/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Heydy Dayana Putare Machaca  | Carnet Control: 14996569  | Codigos: BCB12
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=15/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=14996569 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 15/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ángela Vania Herrera Orozco  | Carnet Control: 6735555  | Codigos: LP14
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/06/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6735555 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 02/06/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Laura Lucia Maldonado Martinez  | Carnet Control: 13717610  | Codigos: BCB9
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=28/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=COCHABAMBA | Sup=HASIRA DANIELA OSINAGA CHOQUE | Carnet=13717610 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 28/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhenifer Lucero Serrudo Llampa  | Carnet Control: 10383369  | Codigos: SU13
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=26/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SUCRE | Sup=JENNY CRISTINA ECHALAR MONTALVO | Carnet=10383369 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 26/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Erika Michel Calle Escobar  | Carnet Control: 10017347  | Codigos: PA32
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=15/01/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=10017347 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 15/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Paola Camila Carbajal Ralde  | Carnet Control: 12830463  | Codigos: BLP6
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=LIONEL CHABUR | Carnet=12830463 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Luis Angel Sihuairos Cano  | Carnet Control: 10729022  | Codigos: SU14
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=26/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SUCRE | Sup=JENNY CRISTINA ECHALAR MONTALVO | Carnet=10729022 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 26/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Gabriela Garcia Arevalo  | Carnet Control: 5683442  | Codigos: SU15
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=26/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SUCRE | Sup=JENNY CRISTINA ECHALAR MONTALVO | Carnet=5683442 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 26/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ruth Gabriela Quenta Saravia  | Carnet Control: 6047844  | Codigos: LP95
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=6047844 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Rene Nuñez Solis  | Carnet Control: 7559052  | Codigos: SU18
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=04/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SUCRE | Sup=JENNY CRISTINA ECHALAR MONTALVO | Carnet=7559052 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Verónica Nuñez Picha  | Carnet Control: 10383321  | Codigos: SU22
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=28/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SUCRE | Sup=JENNY ECHALAR | Carnet=10383321 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 28/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Elian Nicolas Huacote Suxo  | Carnet Control: 9120409  | Codigos: LP89
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=23/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=9120409 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 23/02/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Eddy Herland Espinoza Choque  | Carnet Control: 8311994  | Codigos: LP99
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=07/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=JOEL DAVID HUANCA HUANCA | Carnet=8311994 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 07/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Tania Ninoska Mamani Machaca  | Carnet Control: 8329405  | Codigos: LP98
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=07/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=JOEL DAVID HUANCA HUANCA | Carnet=8329405 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 07/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Maribel Valeria Suxo Vargas  | Carnet Control: 5959160  | Codigos: LP76
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=12/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=5959160 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 12/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Samiel Arturo Torricos Villarreal  | Carnet Control: 6795279  | Codigos: LP78
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=14/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=6795279 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=01/05/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=CLAUDIA SHASKIA CALLE NINA | Carnet=6795279 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/05/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: José Luis Condori Huallpa  | Carnet Control: 9903698  | Codigos: BLP8
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=LIONEL CHABUR | Carnet=9903698 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Franz Rodrígo Levandro Pañuni  | Carnet Control: 6979827  | Codigos: LP100
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=07/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=JOEL DAVID HUANCA HUANCA | Carnet=6979827 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 07/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Maria Del Cielo Gonzales Cancari  | Carnet Control: 11101112  | Codigos: BLP12
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=08/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=LIONEL CHABUR | Carnet=11101112 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 08/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Lyan Yoselin Quispe Flores  | Carnet Control: 8370618  | Codigos: PA6
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=10/01/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8370618 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=10/09/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=8370618 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 10/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jorge Benjamin Carvajal Pacovich  | Carnet Control: 6976093  | Codigos: PA14
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/08/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=6976093 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 10/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Wilson Ramiro Escalier Orihuela  | Carnet Control: 3401535  | Codigos: LP90
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=01/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=3401535 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=14/06/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=3401535 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 14/06/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ruth Celina Ponce Paco  | Carnet Control: 6080094  | Codigos: LP5, LP71, LP92
+Registros encontrados en Estructura: 5
+  Reg 1: Fecha=18/12/2024 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=6080094 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=18/12/2024 | Cargo=SUPERVISOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=6080094 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=08/12/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6080094 | Cruce=CARNET | NombreOK=SI
+  Reg 4: Fecha=11/03/2026 | Cargo=INACTIVO | Estado=INACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=6080094 | Cruce=CARNET | NombreOK=SI
+  Reg 5: Fecha=11/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6080094 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 11/03/2026
+  >> Conflicto en fecha mas reciente (11/03/2026): estados ACTIVO, INACTIVO
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhannet Eva Quispe Paredes  | Carnet Control: 7055163  | Codigos: LP103, LP80, PA29
+Registros encontrados en Estructura: 4
+  Reg 1: Fecha=11/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=7055163 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=21/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=7055163 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=09/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=7055163 | Cruce=CARNET | NombreOK=SI
+  Reg 4: Fecha=13/06/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=7055163 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 13/06/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Marianela Balboa Paredes  | Carnet Control: 7063924  | Codigos: LP46
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=7063924 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Sandro Bautista Paxi  | Carnet Control: 13373574  | Codigos: LP82, PA1, PA30
+Registros encontrados en Estructura: 4
+  Reg 1: Fecha=10/09/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=13373574 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=11/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=13373574 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=18/01/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=13373574 | Cruce=CARNET | NombreOK=SI
+  Reg 4: Fecha=23/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=13373574 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 23/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Gabriela Jimenez Perez  | Carnet Control: 12795959  | Codigos: PA15
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=29/10/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=12795959 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 29/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhoana Iveth Vargas Copa  | Carnet Control: 8347670  | Codigos: LP102
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=JOEL DAVID HUANCA HUANCA | Carnet=8347670 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Belsaida Nelly Aspi Quino  | Carnet Control: 8369254  | Codigos: PA21, PA27
+Registros encontrados en Estructura: 3
+  Reg 1: Fecha=02/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=8369254 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=10/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=FABIOLA PAOLA ULLOA BUTRON | Carnet=8369254 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=20/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8369254 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 20/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Wilma Lili Zegarra Quiroz  | Carnet Control: 9939995  | Codigos: PA11
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/07/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=9939995 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 10/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhonathan Nina Quisbert  | Carnet Control: 14245281  | Codigos: PA3
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/09/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=14245281 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 10/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Carlos Daniel Blanco Quispe  | Carnet Control: 9991058  | Codigos: LP66
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=9991058 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 13/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Cesar Oscar Laura Chuyma  | Carnet Control: 4924017  | Codigos: LP109
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=22/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=JOEL DAVID HUANCA HUANCA | Carnet=4924017 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 22/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Maria Ninel Meneses Quispe  | Carnet Control: 9149843  | Codigos: PA19
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/12/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=9149843 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 02/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Karla Alejandra Vasquez Rodriguez  | Carnet Control: 9190169  | Codigos: LP37
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=21/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=9190169 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 21/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Rocio Selina Rojas Rojas  | Carnet Control: 13677363  | Codigos: PA2
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/09/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=13677363 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 10/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhovy Aracely Balboa Saldias  | Carnet Control: 9057257  | Codigos: PA16
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=29/10/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=9057257 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 29/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Laura Gabriela Vera Severich  | Carnet Control: 11107563  | Codigos: LP10, LP63
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=02/12/2024 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=11107563 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=12/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=11107563 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 12/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Fabiana  Flores Valdivia  | Carnet Control: 13643511  | Codigos: LP17
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=23/06/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=13643511 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 23/06/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Oscar Alfredo Laura Vargas  | Carnet Control: 6095408  | Codigos: LP55
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=21/10/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6095408 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 21/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Claudia Mollinedo Vasquez  | Carnet Control: 9972593  | Codigos: LP38
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/01/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=9972593 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/01/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Juan José Conde Vega  | Carnet Control: 9168322  | Codigos: LP77
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=14/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=9168322 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 14/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Marlon Miguel Terrazas Velásquez  | Carnet Control: 4820606  | Codigos: LP83
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=09/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=4820606 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=25/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=4820606 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 25/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Miguel Angel Blanco Rondo  | Carnet Control: 8426613  | Codigos: LP61
+Registros encontrados en Estructura: 3
+  Reg 1: Fecha=11/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8426613 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=11/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=LIONEL CHABUR | Carnet=8426613 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=02/05/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=CLAUDIA SHASKIA CALLE NINA | Carnet=8426613 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 02/05/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Rodrigo Alberto Lazarte Vera  | Carnet Control: 5985729  | Codigos: LP60
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=5985729 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 10/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Carla Lorena Osco Villanueva  | Carnet Control: 8339877  | Codigos: LP54
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/10/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8339877 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 13/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Wendy Ruby Torrez Zambrana  | Carnet Control: 12768266  | Codigos: PA7
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/09/2025 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=RUTH CELINA PONCE PACO | Carnet=12768266 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 10/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Boris Samuel Ramos Orosco  | Carnet Control: 8291730  | Codigos: LP75
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=17/12/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=8291730 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 17/12/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Vanessa Illanes Yujra  | Carnet Control: 7020380  | Codigos: LP96
+Registros encontrados en Estructura: 3
+  Reg 1: Fecha=16/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=7020380 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=05/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=JOEL DAVID HUANCA HUANCA | Carnet=7020380 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=13/06/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=7020380 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 13/06/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Lizeth Astrit Altamirano Ramirez  | Carnet Control: 8685064  | Codigos: LP106
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=20/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8685064 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 20/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Elizabeth Cerezo Cerezo  | Carnet Control: 7088692  | Codigos: PA41
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/03/2026 | Cargo=PASANTE | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=7088692 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: PASANTE | Fecha vigente: 13/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Evelyn Giovanna Luque Chauca  | Carnet Control: 10013701  | Codigos: PA42
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/03/2026 | Cargo=PASANTE | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=10013701 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: PASANTE | Fecha vigente: 13/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jade Mayerly Mamani Condori  | Carnet Control: 9243184  | Codigos: BLP13
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=15/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=LIONEL CHABUR | Carnet=9243184 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 15/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Karen Nadia García Choque  | Carnet Control: 7332266  | Codigos: OR10
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=25/06/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=7332266 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 25/06/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhoanny Ingrid Claure Lizarro  | Carnet Control: 4060999  | Codigos: OR11
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=07/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=4060999 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 07/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Blanca Vega Yucra  | Carnet Control: 10560884  | Codigos: OR15
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=26/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=10560884 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 26/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Erika Huayhua Fernández  | Carnet Control: 9245688  | Codigos: PA40
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=9245688 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 13/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Consuelo Andrea Escobar Molina  | Carnet Control: 7369125  | Codigos: OR19
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=22/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=7369125 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 22/02/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Daniel Jose Huanca Gomez  | Carnet Control: 12347228  | Codigos: OR20
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=24/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=12347228 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 24/02/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhosep Sharum Quisbert Mamani  | Carnet Control: 7090158  | Codigos: PA52
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=24/03/2026 | Cargo=PASANTE | Estado=ACTIVO | Ciudad=LA PAZ | Sup=GERCY EVER ERGUETA KIPPES | Carnet=7090158 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: PASANTE | Fecha vigente: 24/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhenny Callisaya Quispe  | Carnet Control: 9076644  | Codigos: PA39
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/03/2026 | Cargo=PASANTE | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MAGALI YESENIA HUANCA HUANCA | Carnet=9076644 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: PASANTE | Fecha vigente: 13/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Mercedes Cruz Rueda  | Carnet Control: 5796875  | Codigos: TJ2
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=12/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=TARIJA | Sup=MARÍA FERNANDA DAZA PALMA | Carnet=5796875 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 12/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Verónica Judith Gutiérrez Ramos  | Carnet Control: 10647843  | Codigos: TJ4
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=23/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=TARIJA | Sup=MARÍA FERNANDA DAZA PALMA | Carnet=10647843 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 23/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Daniel Alberto Tellez Tellez  | Carnet Control: 10688369  | Codigos: TJ5
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=05/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=TARIJA | Sup=MARÍA FERNANDA DAZA PALMA | Carnet=10688369 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 05/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Virginia Choconi Mariscal  | Carnet Control: 5542457  | Codigos: BOR24
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=25/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=5542457 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 25/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Cristhian Eduardo Chávez Romero  | Carnet Control: 10674057  | Codigos: TJ6
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=TARIJA | Sup=MARÍA FERNANDA DAZA PALMA | Carnet=10674057 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Reyna Yevara Zurita  | Carnet Control: 13197489  | Codigos: TJ3
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=23/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=TARIJA | Sup=MARÍA FERNANDA DAZA PALMA | Carnet=13197489 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 23/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Carla Núñez Mollo  | Carnet Control: 13607576  | Codigos: PD1
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/10/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=PANDO | Sup= COBIJA  | Carnet=13607576 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 13/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Yhara Gutierrez Cuellar  | Carnet Control: 5701222  | Codigos: PD2
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/10/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=PANDO | Sup= COBIJA  | Carnet=5701222 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 13/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Diego Nacho Flores  | Carnet Control: 4213949  | Codigos: PD5
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=05/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=PANDO | Sup= COBIJA  | Carnet=4213949 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 05/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Edwin Kadiel Hurtado Vaca  | Carnet Control: 1768237  | Codigos: PD4
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=05/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=PANDO | Sup= COBIJA  | Carnet=1768237 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 05/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: David Enrrique Chiguana  Espinoza  | Carnet Control: 10849628  | Codigos: PD3
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=28/10/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=PANDO | Sup= COBIJA  | Carnet=10849628 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 28/10/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Daniel Guzmán Abano  | Carnet Control: 4201538  | Codigos: PD6
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=08/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=PANDO | Sup= COBIJA  | Carnet=4201538 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 08/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ana Patricia Alfaro Mendez  | Carnet Control: 7156345  | Codigos: TJ7
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=08/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=TARIJA | Sup=MARÍA FERNANDA DAZA PALMA | Carnet=7156345 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 08/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Yeny Graciela Fernández Sánchez  | Carnet Control: 7112732  | Codigos: TJ8
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=TARIJA | Sup=MARÍA FERNANDA DAZA PALMA | Carnet=7112732 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Paula Valdez Flores  | Carnet Control: 5814640  | Codigos: TJ10
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=04/05/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=TARIJA | Sup=MARÍA FERNANDA DAZA PALMA | Carnet=5814640 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/05/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ana Paola Reque Palma  | Carnet Control: 7152293  | Codigos: TJ9
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=12/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=TARIJA | Sup=MARÍA FERNANDA DAZA PALMA | Carnet=7152293 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 12/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Daniela Andrea Vargas Arévalo  | Carnet Control: 8367728  | Codigos: LP91
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=05/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8367728 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 05/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Tomas Jerson Mercado Yporre  | Carnet Control: 11401513  | Codigos: BSC10
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=27/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=11401513 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=04/05/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=11401513 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/05/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jorge Andres Siles Vallejos  | Carnet Control: 14395543  | Codigos: BSC11
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=30/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=14395543 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 30/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Génesis Shantel Padilla Boyerman  | Carnet Control: 13775153  | Codigos: BSC13
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=13775153 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Juan Daniel Gutierrez Yavita  | Carnet Control: 13304158  | Codigos: SC4
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=11/08/2024 | Cargo=SUPERVISOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=13304158 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: SUPERVISOR | Fecha vigente: 11/08/2024
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Janeth  Torrez Mamani  | Carnet Control: 9833756  | Codigos: SC5
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=25/03/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=9833756 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 25/03/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Brenda Ruth Bauer Aguirre  | Carnet Control: 9663330  | Codigos: SC6
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=11/04/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=9663330 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 11/04/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Paola Karina Pache Mazcaya  | Carnet Control: 10808567  | Codigos: SC8
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=06/05/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=10808567 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 06/05/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Lorena Velez Quiroga  | Carnet Control: 6245054  | Codigos: BSC12
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=6245054 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 02/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Maria Andrea Gonzales Mamani  | Carnet Control: 12629064  | Codigos: SC10
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=26/06/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=12629064 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 26/06/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Diana  Herrera Dorado  | Carnet Control: 8210524  | Codigos: BSC2, SC12
+Registros encontrados en Estructura: 3
+  Reg 1: Fecha=26/06/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=8210524 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=01/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=8210524 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=04/05/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=8210524 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/05/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Shedenka  Blanco Loza  | Carnet Control: 14588236  | Codigos: SC13
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=01/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=14588236 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 01/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Sandy  Lopez Flores  | Carnet Control: 9206189  | Codigos: SC15
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=04/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=9206189 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhostyn Nahuel Marcos Villarroel  | Carnet Control: 13080042  | Codigos: SC16
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=30/06/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=13080042 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 30/06/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Mia Yorgeili Cuellar Ramos  | Carnet Control: 14326232  | Codigos: SC17
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=04/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=14326232 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Marly Luciely Cespedes Quiroga  | Carnet Control: 7845042  | Codigos: SC18
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=04/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=7845042 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Abrahan  Cuellar Ramos  | Carnet Control: 14326168  | Codigos: SC19
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=04/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=14326168 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ruth  Ticona Mamani  | Carnet Control: 12423871  | Codigos: SC20
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=03/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=12423871 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 03/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Oscar Leandro Guzman Arias  | Carnet Control: 14327114  | Codigos: SC21
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=14327114 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 16/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Wendy Lizbeth Cruz Garcia  | Carnet Control: 12952806  | Codigos: SC22
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=12952806 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 16/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Bryan Yessid Yumany Rocha  | Carnet Control: 8137223  | Codigos: SC23
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=15/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=8137223 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 15/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ronald  Rojas Ybañez  | Carnet Control: 8177359  | Codigos: SC24
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=14/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=8177359 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 14/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Wilma Condori Arias  | Carnet Control: 7083184  | Codigos: PA48
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=7083184 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Darling  Prado Ibañez  | Carnet Control: 9641523  | Codigos: SC27
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=24/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=9641523 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 24/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ruben Demian Salvatierra Verduguez  | Carnet Control: 14968547  | Codigos: SC28
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=23/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=14968547 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 23/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ernesto  Peña Montero  | Carnet Control: 4726355  | Codigos: SC29
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=28/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=4726355 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 28/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Carlos Javier Oliva Rios  | Carnet Control: 6255776  | Codigos: SC31
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=19/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=JUAN DANIEL GUTIERREZ YAVITA | Carnet=6255776 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 19/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jesús Jordys Hinojosa Pedriel  | Carnet Control: 13582140  | Codigos: SC32
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=20/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=13582140 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 20/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Rodrigo Rodas Velasquez  | Carnet Control: 9730443  | Codigos: SC34
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=03/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=9730443 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 03/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Maely Mamani Apaza  | Carnet Control: 14411367  | Codigos: SC33
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=30/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=14411367 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 30/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Nancy Ericka Saucedo Parada  | Carnet Control: 8210873  | Codigos: SC44
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/06/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=8210873 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/06/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Joana Patricia Sosa Paz  | Carnet Control: 6357442  | Codigos: SC50
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=07/11/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=6357442 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 07/11/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Grecia Stefany Limachi Heredia  | Carnet Control: 13613258  | Codigos: SC61
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=06/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=13613258 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 06/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: German Gonzales Peña  | Carnet Control: 14472987  | Codigos: BSC6, SC65
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=20/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=14472987 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=03/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=14472987 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 03/02/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ronald Rocha Flores  | Carnet Control: 13444743  | Codigos: BSC4, SC67
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=30/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=13444743 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=03/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=13444743 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 03/02/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Danna Dandelayon Contreras Pantoja  | Carnet Control: 13444808  | Codigos: SC63
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=09/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=13444808 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 09/01/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Nicolás Marcel Vargas Marquez  | Carnet Control: 12924007  | Codigos: BSC7, SC69
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=30/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=12924007 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=03/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=12924007 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 03/02/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Randy Cristhian Sandor Zabaleta .  | Carnet Control: 9843504  | Codigos: BSC3, SC70
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=29/01/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=9843504 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=03/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=9843504 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 03/02/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Luis Thiago Miranda Ovando  | Carnet Control: 15058055  | Codigos: SC72
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=15058055 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 02/02/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Mateo Pérez Aguilar  | Carnet Control: 12413440  | Codigos: BSC8
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=10/02/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=12413440 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 10/02/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Yessenia Alvarez Vargas  | Carnet Control: 8238296  | Codigos: BSC9
+Registros encontrados en Estructura: 2
+  Reg 1: Fecha=14/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=8238296 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=04/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=8238296 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 04/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Madelen Yulemi Condori Huarachi  | Carnet Control: 15100004  | Codigos: SC74
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=15100004 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Delia Jordan Facusse  | Carnet Control: 6243260  | Codigos: BSC1
+Registros encontrados en Estructura: 3
+  Reg 1: Fecha=26/06/2025 | Cargo=SUPERVISOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=BEATRIZ OVIEDO OVIEDO | Carnet=6243260 | Cruce=CARNET | NombreOK=SI
+  Reg 2: Fecha=26/06/2025 | Cargo=SUPERVISOR | Estado=INACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=6243260 | Cruce=CARNET | NombreOK=SI
+  Reg 3: Fecha=04/05/2026 | Cargo=SUPERVISOR | Estado=ACTIVO | Ciudad=SANTA CRUZ | Sup=DELIA JORDAN FACUSSE | Carnet=6243260 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: SUPERVISOR | Fecha vigente: 04/05/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Adriana Alejandra Arevalo Herbas  | Carnet Control: 8412011  | Codigos: LP93
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=23/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8412011 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 23/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Tania Marca Nina  | Carnet Control: 8480264  | Codigos: PA38
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=13/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8480264 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 13/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Cristian Javier Morales Reyes  | Carnet Control: 6962165  | Codigos: LP97
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=07/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6962165 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 07/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Damián Alejandro De La Barra Rodríguez  | Carnet Control: 9110260  | Codigos: PA45
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=9110260 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Pinto Luis Fernando Mealla Tezanos  | Carnet Control: 1893201  | Codigos: SU3
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=19/02/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SUCRE | Sup=JENNY CRISTINA ECHALAR MONTALVO | Carnet=1893201 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 19/02/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Jhusin Cristian Velasquez Aramayo  | Carnet Control: 10352291  | Codigos: SU8
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=11/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SUCRE | Sup=JENNY CRISTINA ECHALAR MONTALVO | Carnet=10352291 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 11/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Maria Angelica Chavarria Romero  | Carnet Control: 5664273  | Codigos: SU9
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=14/08/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SUCRE | Sup=JENNY CRISTINA ECHALAR MONTALVO | Carnet=5664273 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 14/08/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Vladimir  Mora Montalvo  | Carnet Control: 4112047  | Codigos: SU10
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=24/07/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SUCRE | Sup=JENNY CRISTINA ECHALAR MONTALVO | Carnet=4112047 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 24/07/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Alizon Sarah Vargas Salinas  | Carnet Control: 12802571  | Codigos: SU11
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=15/09/2025 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=SUCRE | Sup=JENNY CRISTINA ECHALAR MONTALVO | Carnet=12802571 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 15/09/2025
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Claudia Apaza Siñani  | Carnet Control: 8328725  | Codigos: PA49
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=8328725 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Marleny Zulma Maynasa Tapia  | Carnet Control: 13960109  | Codigos: PA50
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/03/2026 | Cargo=PASANTE | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=13960109 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: PASANTE | Fecha vigente: 16/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Brenda Isabel Ibañez Carpio  | Carnet Control: 10915114  | Codigos: LP105
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=17/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=10915114 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 17/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Maria Emilia Huaylla Almanza  | Carnet Control: 6123439  | Codigos: LP108
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=22/04/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=LA PAZ | Sup=MILENKA ADRIANA ORDOÑEZ NUÑEZ | Carnet=6123439 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 22/04/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Juan Jose Marquez Llaveta  | Carnet Control: 7390749  | Codigos: OR16
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=19/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=7390749 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 19/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Diego Gorena Lineo  | Carnet Control: 13157661  | Codigos: OR18
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=18/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=13157661 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 18/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Adilson Almanza Gomez  | Carnet Control: 9364461  | Codigos: OR17
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=18/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=9364461 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 18/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Araceli Marlene Tapia Guerra  | Carnet Control: 12868996  | Codigos: OR21
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=25/02/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=12868996 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 25/02/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Dorian Kevin Ramirez Mamani  | Carnet Control: 5778358  | Codigos: OR23
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=20/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=5778358 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 20/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Richar Yamil Avarez Canaviri  | Carnet Control: 12933814  | Codigos: BOR25
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=25/03/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=ORURO | Sup=MIRIAM ROSA CHAMBI QUISPE | Carnet=12933814 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 25/03/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Diego Armando Colque Colque  | Carnet Control: 10091985  | Codigos: CB 33
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=16/01/2026 | Cargo=ACTIVADOR | Estado=ACTIVO | Ciudad=COCHABAMBA | Sup=PAMELA FANNY CALANI LAURA | Carnet=10091985 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: ACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 16/01/2026
+  >> CONCLUSION: ACTIVO - REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Ronald Edgar Sanchez Melgarejo  | Carnet Control: 6407129  | Codigos: CB 34
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=02/03/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=PAMELA FANNY CALANI LAURA | Carnet=6407129 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 02/03/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Sergio Perez Cuaquira  | Carnet Control: 5261036  | Codigos: CB35
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=07/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=PAMELA FANNY CALANI LAURA | Carnet=5261036 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 07/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
+==========================================================================================
+PERSONA: Mireyza Escobar Aliaga  | Carnet Control: 8794625  | Codigos: CB37
+Registros encontrados en Estructura: 1
+  Reg 1: Fecha=20/04/2026 | Cargo=ACTIVADOR | Estado=INACTIVO | Ciudad=COCHABAMBA | Sup=PAMELA FANNY CALANI LAURA | Carnet=8794625 | Cruce=CARNET | NombreOK=SI <== VIGENTE
+  >> Estado Actual: INACTIVO | Cargo Actual: ACTIVADOR | Fecha vigente: 20/04/2026
+  >> CONCLUSION: INACTIVO - NO REQUIERE CONTRATO
